@@ -1,0 +1,21 @@
+To-Do List
+
+Implemented using the ncurses library.
+
+Needs to do:
+-list all items on to-do list
+-key to add item
+-key to select an item and mark it off
+
+-One screen for the whole app, simply a list of the to-do items
+
+Key bindings:
+
+a - add an item
+x - mark off
+up arrow - moves to the next item up on the list
+down arrow - moves to the next item down on the list
+
+functions:
+
+-print_list(): prints each item in the item list 
